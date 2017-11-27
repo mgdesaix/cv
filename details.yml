@@ -1,0 +1,126 @@
+---
+# Personal details
+name: Matthew G. DeSaix
+street: 505 St. James Street
+city: Richmond, VA, 23220
+phone: (703) 431 0423
+email: desaixmg@mymail.vcu.edu
+# Insert URLs without http://
+urls:
+
+
+# Sections
+
+education:
+- year: Expected 2018
+  subject: M.S. Environmental Studies
+  institute: Virginia Commonwealth University
+  thesis: Migratory connectivity and population genetics in a migratory songbird
+  advisor: >
+    Advisors: Dr. Lesley Bulluck, Dr. Rodney Dyer & Dr. Cathy Viverette 
+  city: Richmond, VA
+- year: 2012
+  subject: B.S. Environmental Studies
+  institute: Warren Wilson College
+  thesis: Characterization of nitrate concentrations around a waste lagoon
+  advisor: >
+    Advisor: Dr. Laura Lengnick
+  city: Swannanoa, NC
+
+teaching:
+- semester: Spring 2017, 2018
+  class: Mangrove Avian Field Ecology (BIOL 415 & ENVS 515)
+- semester: Fall 2018
+  class: Introduction to Biological Science Laboratory (BIOZ 151)
+
+awards:
+- year: August 2017 - May 2018
+  title: Teaching Assistantship
+- year: 2017
+  title: VCU Wetlands and Restoration Ecology Research Fellowship ($6,000)
+- year: 2017
+  title: VCU Rice Rivers Center Research Award ($2,000)
+- year: August 2016 - May 2017
+  title: Research Assistantship
+
+skills:
+- type: Computer
+  skill: R, Rstudio, Shiny, ArcGIS suite, MaxEnt, GitHub, Adobe Illustrator, STACKs
+- type: Field
+  skill: Nest searching, band re-sight, mist-netting, blood collection, radio telemetry, geolocator deployment
+- type: Languages
+  skill: Spanish (Intermediate)
+- type: Outdoor
+  skill: Backpacking, canoeing & whitewater kayaking, rock climbing, mountaineering, orienteering & wilderness first aid
+
+experience:
+- years: Spring & Summer 2017
+  employer: Virginia Commonwealth University
+  job: Crew Leader
+  city: Richmond, VA
+  details:
+    - Long-term breeding biology study on Prothonotary Warblers
+    - Supervision and training of 8 technicians; schedule coordination and data management
+    - Nest searching and monitoring, mist-netting, radio-frequency identification tag deployment
+
+- years: Spring 2017
+  employer: Virginia Commonwealth University
+  job: Researcher
+  city: Bath County, VA
+  details:
+    - Geolocator deployment project for Cerulean Warblers (13 geolocator birds, 15 color-banded control birds)
+
+- years: June 2016 - August 2016
+  employer: Operation Wallacea
+  job: Ornithologist
+  city: Sani, Ecuador
+  details:
+    - Led hikes and canoe trips through the Amazonian forest
+    - Taught field biology skills to high school groups; mist-netted 50 birds
+
+- years: February 2016 - June 2016
+  employer: United States Geological Survey
+  job: Field Technician
+  city: Hilo, HI
+  details:
+    - Nest searching and monitoring for native Hawaiian forest birds
+    - Re-sighted color bands; manual radio telemetry
+
+- years: October 2015 - January 2016
+  employer: Smithsonian Institute
+  job: Laboratory Assistant
+  city: Washington, D.C.
+  details:
+    - DNA tissue extraction and PCR for barcoding of dwarfgobies
+
+- years: May 2015 - August 2015
+  employer: University of Wisconsin-Madison
+  job: Field Technician
+  city: Georgetown, CA
+  details:
+    - Behavioral monitoring of California Spotted Owls 
+    - Captured and banded owls, re-sighted color bands, manual radio telemetry
+    - Navigated using GPS, maps, and compass in steep, canyon terrain
+
+- years: August 2014 - December 2014
+  employer: Manu Project
+  job: Field Technician
+  city: Madre de Dios, Peru
+  details:
+    - Nest searching and monitoring of Amazonian forest birds
+    - Target netted birds (50) for metabolic experiments
+
+- years: April 2014 - July 2014
+  employer: Rocky Mountain Bird Observatory
+  job: Field Technician
+  city: National Forests, New Mexico
+  details:
+    - Presence-absence and reproductive surveys of Mexican Spotted Owls
+    - Extensive solo backpacking and wilderness navigation
+
+# Settings
+mainfont: Hoefler Text
+fontsize: 11pt
+lang: English
+geometry: a4paper, left=35mm, right=35mm, top=51mm, bottom=17mm
+---
